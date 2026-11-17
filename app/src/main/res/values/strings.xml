@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Smart Vocabulary Scanner</string>
+    <string name="title_scanner">Text Scanner</string>
+    <string name="title_vocabulary">Saved Words</string>
+    <string name="take_photo">Capture Image</string>
+    <string name="pick_image">Select Image</string>
+    <string name="filter_all">All Words</string>
+    <string name="filter_learned">Learned</string>
+    <string name="filter_unlearned">Not Learned</string>
+    <string name="sign_in_google">Sign in with Google</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="guest_user">Guest Mode</string>
+</resources>
